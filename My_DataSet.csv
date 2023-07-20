@@ -1,0 +1,201 @@
+Sno.,Date_confirmation,Confirmed Cases,Country,City,Age,Gender,Symptoms
+1,06-05-2022,1,England,London,45-50,female,rash
+2,12-05-2022,1,England,London,45-50,female,rash
+3,13-05-2022,1,England,London,20-44,female,vesicular rash
+4,15-05-2022,4,England,London,20-44,male,vesicular rash
+5,17-05-2022,3,England,London,20-44,male,vesicular rash
+6,18-05-2022,21,England,London,45-50,male,vesicular rash
+7,19-05-2022,16,England,London,20-44,female,
+8,20-05-2022,46,Portugal,Lisbon,45-50,male,"skin lesions, ulcerative lesions"
+9,21-05-2022,16,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+10,23-05-2022,73,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+11,24-05-2022,34,Spain,Madrid,,male,
+12,25-05-2022,44,England,London,,female,
+13,26-05-2022,88,United States,Boston,45-50,male,
+14,27-05-2022,51,Spain,Madrid,,male,
+15,28-05-2022,16,Spain,Madrid,,male,
+16,29-05-2022,15,Spain,Madrid,,male,
+17,30-05-2022,123,Spain,Madrid,45-50,male,
+18,31-05-2022,66,Spain,Madrid,,male,
+19,01-06-2022,83,Spain,Madrid,,male,
+20,02-06-2022,125,Portugal,Lisbon,20-44,male,ulcerative lesions
+21,03-06-2022,94,England,South East,,female,
+22,04-06-2022,7,Portugal,Lisbon,20-44,male,ulcerative lesions
+23,06-06-2022,114,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+24,07-06-2022,150,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+25,08-06-2022,97,Portugal,Lisbon,20-44,male,ulcerative lesions
+26,09-06-2022,146,Portugal,Lisbon,20-44,male,ulcerative lesions
+27,10-06-2022,42,Portugal,Lisbon,20-44,male,ulcerative lesions
+28,11-06-2022,9,Portugal,Lisbon,20-44,male,ulcerative lesions
+29,12-06-2022,107,Portugal,Lisbon,20-44,male,ulcerative lesions
+30,13-06-2022,58,Portugal,Lisbon,20-44,male,ulcerative lesions
+31,14-06-2022,240,Portugal,Lisbon,20-44,male,ulcerative lesions
+32,15-06-2022,148,Germany,Munich,25-29,male,Slight swallowing difficulties and an elevated temperature
+33,16-06-2022,371,Belgium,Antwerp,30-34,male,perianal papules; inguinal adenopathy
+34,17-06-2022,195,Sweden,Stockholm,,male,
+35,18-06-2022,121,Italy,Rome,40-44,male,lesions
+36,19-06-2022,143,Canada,Ontario,20-64,male,genital ulcers
+37,20-06-2022,290,Portugal,Coimbra,20-44,male,
+38,21-06-2022,303,Portugal,Coimbra,20-44,male,
+39,22-06-2022,16,Canada,Ontario,20-64,male,genital ulcers
+40,23-06-2022,189,Portugal,Lisbon,20-44,male,ulcerative lesions
+41,24-06-2022,150,England,London,,female,rash
+42,25-06-2022,10,England,London,,female,rash
+43,26-06-2022,28,England,London,,female,vesicular rash
+44,27-06-2022,200,England,London,,male,vesicular rash
+45,28-06-2022,32,England,London,,male,vesicular rash
+46,29-06-2022,85,England,London,,male,vesicular rash
+47,30-06-2022,48,England,Newcastle,,male,vesicular rash
+48,01-07-2022,99,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+49,02-07-2022,153,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+50,03-07-2022,283,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+51,04-07-2022,381,Spain,Madrid,,male,
+52,05-07-2022,321,England,London,,female,
+53,06-07-2022,582,United States,Boston,,male,
+54,07-07-2022,256,Spain,Madrid,,male,
+55,08-07-2022,502,Spain,Madrid,,male,
+56,09-07-2022,85,Spain,Madrid,,male,Slight swallowing difficulties and an elevated temperature
+57,10-07-2022,236,Spain,Madrid,,male,
+58,11-07-2022,58,Spain,Madrid,,male,
+59,12-07-2022,240,Spain,Madrid,,male,
+60,13-07-2022,148,Portugal,Lisbon,20-44,male,ulcerative lesions
+61,14-07-2022,371,England,South East,,female,Slight swallowing difficulties and an elevated temperature
+62,15-07-2022,195,Portugal,Lisbon,20-44,male,ulcerative lesions
+63,16-07-2022,125,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+64,17-07-2022,186,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+65,18-07-2022,252,Portugal,Lisbon,20-44,male,ulcerative lesions
+66,19-07-2022,150,Portugal,Lisbon,20-44,male,ulcerative lesions
+67,20-07-2022,100,Portugal,Lisbon,20-44,male,ulcerative lesions
+68,21-07-2022,158,Portugal,Lisbon,20-44,male,ulcerative lesions
+69,22-07-2022,200,Portugal,Lisbon,20-44,male,ulcerative lesions
+70,23-07-2022,132,Portugal,Lisbon,20-44,male,ulcerative lesions
+71,24-07-2022,282,Portugal,Lisbon,20-44,male,ulcerative lesions
+72,25-07-2022,200,Germany,Munich,25-29,male,Slight swallowing difficulties and an elevated temperature
+73,26-07-2022,321,Belgium,Antwerp,30-34,male,perianal papules; inguinal adenopathy
+74,27-07-2022,582,Sweden,Stockholm,30-35,male,
+75,28-07-2022,256,Italy,Rome,40-44,male,lesions
+76,29-07-2022,502,Canada,Ontario,20-64,male,genital ulcers
+77,30-07-2022,85,Africa,Kenya,20-44,male,rash
+78,31-07-2022,236,Africa,Kenya,20-44,male,vesicular rash
+79,01-08-2022,148,Africa,Kenya,20-64,male,genital ulcers
+80,02-08-2022,190,Portugal,Lisbon,20-44,female,ulcerative lesions
+81,03-08-2022,68,England,London,20-44,female,rash
+82,04-08-2022,98,England,London,20-64,female,rash
+83,05-08-2022,50,England,London,20-44,female,vesicular rash
+84,06-08-2022,26,England,London,18-25,male,vesicular rash
+85,07-08-2022,72,England,London,18-25,male,vesicular rash
+86,08-08-2022,85,England,London,18-25,male,vesicular rash
+87,09-08-2022,48,England,Newcastle,18-25,male,vesicular rash
+88,10-08-2022,99,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+89,11-08-2022,153,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+90,12-08-2022,283,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+91,13-08-2022,381,Spain,Madrid,20-44,male,
+92,14-08-2022,258,England,London,20-64,female,Slight swallowing difficulties and an elevated temperature
+93,15-08-2022,148,United States,Boston,20-44,male,
+94,16-08-2022,148,Spain,Madrid,,male,
+95,17-08-2022,371,Spain,Madrid,18-25,male,
+96,18-08-2022,195,Spain,Madrid,,male,Slight swallowing difficulties and an elevated temperature
+97,19-08-2022,125,Spain,Madrid,,male,
+98,20-08-2022,182,Spain,Madrid,,male,
+99,21-08-2022,290,Spain,Madrid,,male,
+100,22-08-2022,303,Portugal,Lisbon,20-44,male,ulcerative lesions
+101,23-08-2022,94,England,London,,male,vesicular rash
+102,24-08-2022,7,England,London,20-44,male,Slight swallowing difficulties and an elevated temperature
+103,25-08-2022,114,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+104,26-08-2022,150,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+105,27-08-2022,97,Portugal,Lisbon,20-44,male,"skin lesions, ulcerative lesions"
+106,28-08-2022,146,Spain,Madrid,,male,"skin lesions, ulcerative lesions"
+107,29-08-2022,42,England,London,,female,"skin lesions, ulcerative lesions"
+108,30-08-2022,9,United States,Boston,,male,"skin lesions, ulcerative lesions"
+109,31-08-2022,107,Spain,Madrid,18-25,male,vesicular rash
+110,01-09-2022,58,Spain,Madrid,,male,"skin lesions, ulcerative lesions"
+111,02-09-2022,240,Spain,Madrid,,male,vesicular rash
+112,03-09-2022,148,Portugal,Lisbon,,male,"skin lesions, ulcerative lesions"
+113,04-09-2022,371,Spain,Madrid,,male,"skin lesions, ulcerative lesions"
+114,05-09-2022,195,Spain,Madrid,18-25,male,"skin lesions, ulcerative lesions"
+115,06-09-2022,141,United States,Boston,,male,
+116,07-09-2022,123,United States,Boston,,female,
+117,08-09-2022,290,Africa,Kenya,,male,
+118,09-09-2022,303,Portugal,Lisbon,,male,
+119,10-09-2022,16,Portugal,Lisbon,,male,
+120,11-09-2022,189,Portugal,Lisbon,20-44,male,
+121,12-09-2022,200,Spain,Madrid,18-25,male,
+122,13-09-2022,156,Spain,Madrid,45-50,male,
+123,14-09-2022,128,Spain,Madrid,18-25,male,
+124,15-09-2022,126,England,London,,male,ulcerative lesions
+125,16-09-2022,211,England,South East,,female,
+126,17-09-2022,239,Africa,Kenya,,male,ulcerative lesions
+127,18-09-2022,143,Africa,Kenya,20-44,male,"skin lesions, ulcerative lesions"
+128,19-09-2022,141,England,South East,18-25,male,"skin lesions, ulcerative lesions"
+129,20-09-2022,190,England,South East,45-50,male,ulcerative lesions
+130,21-09-2022,246,England,South East,,male,ulcerative lesions
+131,22-09-2022,145,Africa,Kenya,,male,ulcerative lesions
+132,23-09-2022,124,England,South East,18-25,male,ulcerative lesions
+133,24-09-2022,158,United States,Boston,,male,ulcerative lesions
+134,25-09-2022,139,United States,Boston,,male,ulcerative lesions
+135,26-09-2022,100,United States,Boston,,male,ulcerative lesions
+136,27-09-2022,164,United States,Boston,20-44,male,Slight swallowing difficulties and an elevated temperature
+137,28-09-2022,125,England,London,18-25,male,perianal papules; inguinal adenopathy
+138,29-09-2022,226,Spain,Madrid,45-50,male,
+139,30-09-2022,228,Spain,Madrid,,male,lesions
+140,01-10-2022,250,England,London,20-44,male,genital ulcers
+141,02-10-2022,118,England,London,18-25,male,
+142,03-10-2022,172,Portugal,Lisbon,45-50,male,
+143,04-10-2022,180,Portugal,Lisbon,,male,genital ulcers
+144,05-10-2022,229,Portugal,Lisbon,,male,ulcerative lesions
+145,06-10-2022,132,Sweden,Stockholm,18-25,female,rash
+146,07-10-2022,115,Sweden,Stockholm,,female,rash
+147,08-10-2022,173,Sweden,Stockholm,18-25,female,vesicular rash
+148,09-10-2022,206,Sweden,Stockholm,18-25,male,vesicular rash
+149,10-10-2022,182,Sweden,Stockholm,20-44,male,vesicular rash
+150,11-10-2022,146,Sweden,Stockholm,20-44,male,vesicular rash
+151,12-10-2022,189,Spain,Madrid,18-25,male,vesicular rash
+152,13-10-2022,193,Spain,Madrid,45-50,male,"skin lesions, ulcerative lesions"
+153,14-10-2022,208,Spain,Madrid,,male,"skin lesions, ulcerative lesions"
+154,15-10-2022,212,Portugal,Braga,45-50,male,"skin lesions, ulcerative lesions"
+155,16-10-2022,219,England,London,45-50,male,
+156,17-10-2022,62,Portugal,Coimbra,,female,
+157,18-10-2022,91,Portugal,Evora,,male,
+158,19-10-2022,76,Portugal,Porto,45-50,male,
+159,20-10-2022,69,Portugal,Porto,20-44,male,
+160,21-10-2022,78,Portugal,Porto,20-44,male,Slight swallowing difficulties and an elevated temperature
+161,22-10-2022,55,Portugal,Porto,18-25,male,
+162,23-10-2022,93,Portugal,Porto,20-44,male,
+163,24-10-2022,52,Portugal,Coimbra,18-25,male,
+164,25-10-2022,82,Portugal,Coimbra,18-25,male,ulcerative lesions
+165,26-10-2022,70,Portugal,Coimbra,30-40,female,Slight swallowing difficulties and an elevated temperature
+166,27-10-2022,92,Portugal,Coimbra,18-25,male,ulcerative lesions
+167,28-10-2022,84,Portugal,Coimbra,30-40,male,"skin lesions, ulcerative lesions"
+168,29-10-2022,88,Portugal,Braga,,male,"skin lesions, ulcerative lesions"
+169,30-10-2022,75,Portugal,Braga,20-30,male,ulcerative lesions
+170,31-10-2022,53,Portugal,Braga,18-25,male,ulcerative lesions
+171,01-11-2022,57,Portugal,Braga,45-50,male,ulcerative lesions
+172,02-11-2022,56,Portugal,Braga,,male,ulcerative lesions
+173,03-11-2022,66,Portugal,Evora,,male,ulcerative lesions
+174,04-11-2022,79,Portugal,Evora,,male,ulcerative lesions
+175,05-11-2022,77,Portugal,Evora,45-50,male,ulcerative lesions
+176,06-11-2022,71,Portugal,Lisbon,,male,Slight swallowing difficulties and an elevated temperature
+177,07-11-2022,67,Portugal,Lisbon,45-50,male,perianal papules; inguinal adenopathy
+178,08-11-2022,83,Portugal,Lisbon,18-25,male,
+179,09-11-2022,59,England,London,18-25,male,lesions
+180,10-11-2022,98,England,London,45-50,male,genital ulcers
+181,11-11-2022,43,England,London,45-50,male,"skin lesions, ulcerative lesions"
+182,12-11-2022,30,Canada,Ontario,,male,"skin lesions, ulcerative lesions"
+183,13-11-2022,37,England,London,45-50,male,
+184,14-11-2022,44,England,London,45-50,female,
+185,15-11-2022,4,Canada,Ontario,,male,
+186,16-11-2022,7,Canada,Ontario,20-44,male,
+187,17-11-2022,19,England,London,,male,
+188,18-11-2022,10,Canada,Ontario,45-50,male,Slight swallowing difficulties and an elevated temperature
+189,19-11-2022,48,England,London,,male,
+190,20-11-2022,24,Canada,Ontario,20-44,male,
+191,21-11-2022,2,England,London,45-50,male,
+192,22-11-2022,3,England,London,20-44,male,ulcerative lesions
+193,23-11-2022,9,England,London,18-25,female,Slight swallowing difficulties and an elevated temperature
+194,24-11-2022,38,Canada,Ontario,45-50,male,ulcerative lesions
+195,25-11-2022,36,Spain,Madrid,20-44,male,"skin lesions, ulcerative lesions"
+196,26-11-2022,40,Spain,Madrid,,male,"skin lesions, ulcerative lesions"
+197,27-11-2022,5,England,London,20-44,male,ulcerative lesions
+198,28-11-2022,25,England,London,18-25,male,ulcerative lesions
+199,29-11-2022,14,England,London,20-44,male,ulcerative lesions
+200,30-11-2022,28,England,London,18-25,male,ulcerative lesions
